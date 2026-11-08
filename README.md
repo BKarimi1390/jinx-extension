@@ -13,11 +13,13 @@
 [![Firefox](https://img.shields.io/badge/Firefox-115%2B-FF7139?logo=firefoxbrowser&logoColor=white)](https://www.mozilla.org/firefox/)
 [![React](https://img.shields.io/badge/React-UI-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 [![AI](https://img.shields.io/badge/AI-Jinx%20Agent-8B5CF6)](#-jinx-ai-agent)
+[![Free](https://img.shields.io/badge/price-100%25%20FREE-2EA043)](#-credits--attribution)
+[![Based on Widgetify](https://img.shields.io/badge/based_on-Widgetify-1F8FEF)](https://widgetify.ir/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-[![----](https://img.shields.io/badge/README-فارسی-blue?style=flat-square)](README-fa.md) **| فارسی**
+**🌐 Website:** [jinx.metora.ir](https://jinx.metora.ir) · **Developer:** [metora.ir](https://metora.ir)
 
-**🌐 Developer:** [metora.ir](https://metora.ir)
+**📖 Persian docs:** [README-fa.md](README-fa.md)
 
 </div>
 
@@ -25,7 +27,7 @@
 
 ## 📖 Overview
 
-Jinx replaces your browser's new tab with a **smart, Persian-first dashboard**. It bundles a live-data dashboard (currency, gold, weather), productivity widgets (todos, habits, notes, pomodoro, bookmarks, calendar) and a **browser-controlling AI agent** powered by Metora's own AI models (`jinx-1-air`, `jinx-3-legion`).
+Jinx replaces your browser's new tab with a **smart, Persian-first dashboard**. It is built on top of the source code of [**Widgetify**](https://widgetify.ir/) — the popular Iranian smart new-tab extension — and it is **completely free**: every feature is open for everyone, no paywalls, no subscriptions. It bundles a live-data dashboard (currency, gold, weather), productivity widgets (todos, habits, notes, pomodoro, bookmarks, calendar) and a **browser-controlling AI agent** powered by Metora's own AI models (`jinx-1-air`, `jinx-3-legion`).
 
 Everything the dashboard needs to render is **shipped inside the extension** — Persian fonts (Samim & Vazirmatn), bundled wallpapers, sounds and icons — so your new tab paints instantly, even on a slow connection.
 
@@ -66,7 +68,7 @@ Everything the dashboard needs to render is **shipped inside the extension** —
 
 **👨‍💼 Account**
 - Sign in with a **Metora account** to sync your layout across devices
-- Subscription plans managed through the billing module
+- **100% free** — no subscriptions, no paywalls, no locked features
 
 ## 🧱 Architecture
 
@@ -140,6 +142,12 @@ Jinx is a dashboard *and* a browser agent, so it asks for more than a typical ex
 
 This repo hosts the production build. Bug reports and feature ideas are very welcome — open an issue and include your browser, version (`27.2.0`) and a screenshot.
 
+## 🪶 Credits & Attribution
+
+Jinx is built from the source code of [**Widgetify**](https://widgetify.ir/) — the smart new-tab extension by the Widgetify team. The dashboard architecture, the widget grid, the bundled wallpapers pipeline and the live-data services (`api.widgetify.ir`) originate from that project. Huge thanks to the Widgetify team for making their source code available.
+
+On top of that base, Metora added the **Jinx AI agent** (Jinx-1-Air / Jinx-3-Legion), Persian-first refinements and its own branding — and ships the result here as a **completely free**, MIT-licensed extension.
+
 ## 📄 License
 
 Released under the [MIT License](LICENSE).
@@ -149,6 +157,8 @@ Released under the [MIT License](LICENSE).
 <div align="center">
 
 **Built by [Metora](https://metora.ir) — Benyamin Karimi & Pooriya Esmael zadeh**
+
+🪶 **Based on [Widgetify](https://widgetify.ir/)** · 🌐 [jinx.metora.ir](https://jinx.metora.ir)
 
 ⭐ Star this repo if Jinx makes your new tab smarter!
 
