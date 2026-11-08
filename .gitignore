@@ -1,0 +1,23 @@
+# ===== Jinx Extension =====
+
+# packaged builds (distribute via GitHub Releases instead)
+*.zip
+*.crx
+*.xpi
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# local tooling
+node_modules/
+vendor/
+.output/
+.wxt/
