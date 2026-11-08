@@ -6,9 +6,9 @@
 
 **داشبورد هوشمند نوب‌تب با ایجنت هوش مصنوعی که مرورگر را کنترل می‌کند — قیمت لحظه‌ای ارز و طلا، آب‌وهوا، تقویم فارسی، تودو، بوکمارک، والپیپر و یک سیستم ویجت کامل.**
 
-`نسخه 27.2.0` · کروم (Manifest V3) + فایرفاکس
+`نسخه 9.0.0` · کروم (Manifest V3) + فایرفاکس
 
-[![Version](https://img.shields.io/badge/version-27.2.0-blue)](manifest.json)
+[![Version](https://img.shields.io/badge/version-9.0.0-blue)](manifest.json)
 [![Chrome](https://img.shields.io/badge/Chrome-MV3-4285F4?logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/extensions/develop/concepts/manifest-v3)
 [![Firefox](https://img.shields.io/badge/Firefox-115%2B-FF7139?logo=firefoxbrowser&logoColor=white)](https://www.mozilla.org/firefox/)
 [![React](https://img.shields.io/badge/React-UI-61DAFB?logo=react&logoColor=black)](https://react.dev/)
@@ -17,7 +17,9 @@
 [![Based on Widgetify](https://img.shields.io/badge/based_on-Widgetify-1F8FEF)](https://widgetify.ir/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-**🌐 وب‌سایت افزونه:** [jinx.metora.ir](https://jinx.metora.ir) · **توسعه‌دهنده:** [metora.ir](https://metora.ir)
+**🌐 وب‌سایت افزونه:** [jinx.metora.ir](https://jinx.metora.ir) · **استودیو:** [متورا](https://metora.ir)
+
+**👨‍💻 توسعه‌دهنده‌ها:** [BKarimi1390](https://github.com/BKarimi1390) · [SirBNL](https://github.com/SirBNL)
 
 **📖 English docs:** [README.md](README.md)
 
@@ -140,7 +142,7 @@
 
 ## 🤝 مشارکت
 
-این ریپو میزبان بیلد رسمی است. گزارش باگ و ایده‌ی ویژگی خیلی خوش‌آمد — یک Issue باز کنید و مرورگر، نسخه (`27.2.0`) و یک اسکرین‌شات ضمیمه کنید.
+این ریپو میزبان بیلد رسمی است. گزارش باگ و ایده‌ی ویژگی خیلی خوش‌آمد — یک Issue باز کنید و مرورگر، نسخه (`9.0.0`) و یک اسکرین‌شات ضمیمه کنید.
 
 ## 🪶 ارجاع و سپاسگزاری
 
@@ -156,7 +158,7 @@
 
 <div align="center">
 
-**ساخته‌ی [متورا](https://metora.ir) — بنیامین کریمی و پوریا اسماعیل‌زاده**
+**توسعه‌دهنده‌ها: [BKarimi1390](https://github.com/BKarimi1390) · [SirBNL](https://github.com/SirBNL) — پروژه‌ای از [متورا](https://metora.ir)**
 
 🪶 **بر پایه‌ی [ویجتی‌فای](https://widgetify.ir/)** · 🌐 [jinx.metora.ir](https://jinx.metora.ir)
 

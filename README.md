@@ -6,9 +6,9 @@
 
 **A smart new-tab dashboard with an AI agent that controls your browser — live currency & gold prices, weather, Persian calendar, todos, bookmarks, wallpapers and a full widget system.**
 
-`v27.2.0` · Chrome (Manifest V3) + Firefox
+`v9.0.0` · Chrome (Manifest V3) + Firefox
 
-[![Version](https://img.shields.io/badge/version-27.2.0-blue)](manifest.json)
+[![Version](https://img.shields.io/badge/version-9.0.0-blue)](manifest.json)
 [![Chrome](https://img.shields.io/badge/Chrome-MV3-4285F4?logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/extensions/develop/concepts/manifest-v3)
 [![Firefox](https://img.shields.io/badge/Firefox-115%2B-FF7139?logo=firefoxbrowser&logoColor=white)](https://www.mozilla.org/firefox/)
 [![React](https://img.shields.io/badge/React-UI-61DAFB?logo=react&logoColor=black)](https://react.dev/)
@@ -17,7 +17,9 @@
 [![Based on Widgetify](https://img.shields.io/badge/based_on-Widgetify-1F8FEF)](https://widgetify.ir/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-**🌐 Website:** [jinx.metora.ir](https://jinx.metora.ir) · **Developer:** [metora.ir](https://metora.ir)
+**🌐 Website:** [jinx.metora.ir](https://jinx.metora.ir) · **Studio:** [metora.ir](https://metora.ir)
+
+**👨‍💻 Developers:** [BKarimi1390](https://github.com/BKarimi1390) · [SirBNL](https://github.com/SirBNL)
 
 **📖 Persian docs:** [README-fa.md](README-fa.md)
 
@@ -140,7 +142,7 @@ Jinx is a dashboard *and* a browser agent, so it asks for more than a typical ex
 
 ## 🤝 Contributing
 
-This repo hosts the production build. Bug reports and feature ideas are very welcome — open an issue and include your browser, version (`27.2.0`) and a screenshot.
+This repo hosts the production build. Bug reports and feature ideas are very welcome — open an issue and include your browser, version (`9.0.0`) and a screenshot.
 
 ## 🪶 Credits & Attribution
 
@@ -156,7 +158,7 @@ Released under the [MIT License](LICENSE).
 
 <div align="center">
 
-**Built by [Metora](https://metora.ir) — Benyamin Karimi & Pooriya Esmael zadeh**
+**Developers: [BKarimi1390](https://github.com/BKarimi1390) · [SirBNL](https://github.com/SirBNL) — a [Metora](https://metora.ir) project**
 
 🪶 **Based on [Widgetify](https://widgetify.ir/)** · 🌐 [jinx.metora.ir](https://jinx.metora.ir)
 
